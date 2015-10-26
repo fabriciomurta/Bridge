@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.Collections", "..\Fr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.AngularJS", "..\Frameworks\AngularJS\Bridge.AngularJS.csproj", "{CFD49E9D-FA2D-46A6-B50D-8D114F07C07C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.AngularJS.jQuery2", "..\Frameworks\AngularJS.jQuery2\Bridge.AngularJS.jQuery2.csproj", "{611F4C82-CA6E-4114-BB71-54CDABFB6B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{CFD49E9D-FA2D-46A6-B50D-8D114F07C07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFD49E9D-FA2D-46A6-B50D-8D114F07C07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFD49E9D-FA2D-46A6-B50D-8D114F07C07C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611F4C82-CA6E-4114-BB71-54CDABFB6B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611F4C82-CA6E-4114-BB71-54CDABFB6B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611F4C82-CA6E-4114-BB71-54CDABFB6B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611F4C82-CA6E-4114-BB71-54CDABFB6B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,5 +87,6 @@ Global
 		{476C2F05-4770-481C-90D1-8353E5F379DC} = {7C762820-1165-4EB4-B7A3-3BB45DF33CE7}
 		{2F36A7E8-FC89-49A9-8161-5BBBE8F66A3A} = {7C762820-1165-4EB4-B7A3-3BB45DF33CE7}
 		{CFD49E9D-FA2D-46A6-B50D-8D114F07C07C} = {7C762820-1165-4EB4-B7A3-3BB45DF33CE7}
+		{611F4C82-CA6E-4114-BB71-54CDABFB6B05} = {7C762820-1165-4EB4-B7A3-3BB45DF33CE7}
 	EndGlobalSection
 EndGlobal
